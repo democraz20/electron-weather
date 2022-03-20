@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "simple weather app",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "author": "democraz20",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  },
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
